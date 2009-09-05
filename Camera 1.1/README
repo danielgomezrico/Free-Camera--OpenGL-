@@ -1,0 +1,6 @@
+The movement controlled by keyboard:
+- The Arrows controls the angle of the camera
+- '+' and '-' controls the camera position
+
+Fixed:
+    - Constructor that recive more than 3 parameters were wrong, now fixed
